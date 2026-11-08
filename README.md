@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Depth-First Search
 |  |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
