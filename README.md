@@ -29,6 +29,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
