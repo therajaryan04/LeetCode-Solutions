@@ -26,6 +26,7 @@
 | [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
