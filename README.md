@@ -9,15 +9,18 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Array
@@ -72,4 +75,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
