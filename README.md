@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## String
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
