@@ -37,6 +37,7 @@
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
