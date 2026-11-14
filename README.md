@@ -16,6 +16,7 @@
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0014-longest-common-prefix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -123,6 +125,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
