@@ -8,6 +8,7 @@
 | [0029-divide-two-integers](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -130,5 +133,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
