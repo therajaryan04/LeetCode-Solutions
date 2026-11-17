@@ -30,6 +30,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
@@ -37,6 +38,7 @@
 | [0014-longest-common-prefix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
