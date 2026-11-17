@@ -52,6 +52,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
@@ -88,6 +89,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -96,6 +98,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bracket Sequences
 |  |
