@@ -14,6 +14,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
