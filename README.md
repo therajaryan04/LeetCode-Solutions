@@ -18,6 +18,7 @@
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0647-palindromic-substrings](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0647-palindromic-substrings](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
@@ -84,6 +86,7 @@
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
