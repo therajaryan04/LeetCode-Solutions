@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
