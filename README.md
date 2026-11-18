@@ -42,6 +42,7 @@
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -67,6 +68,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -171,4 +175,8 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
