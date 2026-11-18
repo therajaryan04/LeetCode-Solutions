@@ -81,6 +81,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
@@ -157,4 +158,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
