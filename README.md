@@ -46,6 +46,7 @@
 | [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -176,6 +178,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
@@ -199,4 +202,12 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
