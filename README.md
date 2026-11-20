@@ -14,6 +14,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0647-palindromic-substrings](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -93,6 +95,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
