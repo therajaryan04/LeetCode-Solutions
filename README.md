@@ -28,6 +28,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0647-palindromic-substrings](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -173,6 +175,7 @@
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Algorithm X
 |  |
 | ------- |
