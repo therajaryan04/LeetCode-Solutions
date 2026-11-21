@@ -21,6 +21,7 @@
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0647-palindromic-substrings](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
@@ -66,6 +68,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1267-count-servers-that-communicate](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 | [0110-balanced-binary-tree](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Prefix Sum
 |  |
 | ------- |
