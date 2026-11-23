@@ -39,6 +39,7 @@
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0131-palindrome-partitioning](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -49,6 +50,7 @@
 | [0031-next-permutation](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -188,6 +190,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
