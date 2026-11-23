@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -102,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
@@ -136,6 +138,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Trie
