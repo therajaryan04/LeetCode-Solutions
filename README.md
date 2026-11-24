@@ -9,6 +9,7 @@
 | [0060-permutation-sequence](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
@@ -165,6 +167,7 @@
 | [0658-find-k-closest-elements](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [3364-minimum-positive-sum-subarray](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -224,4 +227,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/therajaryan04/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
